@@ -14,8 +14,7 @@ Examine how sleep quality, fatigue, BMI, and demographics influence overall heal
 #### Data
 ##### Source: 
 UCI Sleep Deprivation & Cognitive Performance Dataset 
-
-sleep_deprivation_dataset_detailed.csv
+https://www.kaggle.com/datasets/sacramentotechnology/sleep-deprivation-and-cognitive-performance?select=sleep_deprivation_dataset_detailed.csv
 
 ##### Description: 
 Includes sleep quality scores, daytime sleepiness, BMI, age groups, and gender.
